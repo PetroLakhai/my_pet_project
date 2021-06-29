@@ -6,6 +6,6 @@ d = c-1
 print(d)
 
 print('Good job!')
-
+print('Yes')
 
 
